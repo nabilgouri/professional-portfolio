@@ -29,6 +29,8 @@
 .profile-options .primary-btn {
   background-color: orange;
   color: aliceblue;
+  margin: 0 0 0 30px;
+  margin-bottom: 10px;
 }
 .profile-options .primary-btn:hover {
   background-color: aliceblue;
