@@ -1,0 +1,36 @@
+.profile-container {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
+  background-image: url("../../assets/profile/bg.jpg");
+}
+
+.profile-details-roles {
+  display: flex;
+  flex-direction: column;
+  margin: 14px 0 24px 0;
+}
+.profile-details-roles h1 {
+  color: aliceblue;
+}
+
+.profile-details-name h1 {
+  color: aliceblue;
+}
+
+.profile-colz .profile-colz-icons {
+  margin: 10 10 10 10px;
+  padding: 10 10 10 10px;
+}
+
+.profile-options .primary-btn {
+  background-color: orange;
+  color: aliceblue;
+}
+.profile-options .primary-btn:hover {
+  background-color: aliceblue;
+  color: orange;
+}
