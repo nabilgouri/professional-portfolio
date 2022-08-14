@@ -53,6 +53,12 @@ export default function Profile() {
           </a>
         </div>
       </div>
+      <div className="profile-picture">
+            <div className="profile-picture-background">
+
+            </div>
+        </div>
+
       </div>
     </div>
   );
